@@ -48,6 +48,10 @@ How it looks in a Professional Race or Gym Event
 
 Pre-Race: The DJ shows a scrolling list of personal bests and introduces the riders.
 
+Also, we could make the pics/results/stats a webpage(s).
+
+
 Mid-Race: As the lead changes, the camera feeds swap automatically. The crowd sees the face of the new leader on the big screen.
+
 
 Finishing: As riders cross the finish line, the ESP32-CAM captures their reaction, while the DJ overlays their final stats (Average Speed, Rank, and Total Time).
