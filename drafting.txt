@@ -1,0 +1,3 @@
+if you ever did want to tweak v54 just for fun (without the big "Open World" rewrite), you could simply add a "Drafting Multiplier" to the speed logic:
+
+if abs(p1.z - p2.z) < 100 and p1.lane_idx == p2.lane_idx: p1.speed *= 1.1
