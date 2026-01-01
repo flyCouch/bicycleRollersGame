@@ -55,3 +55,6 @@ Mid-Race: As the lead changes, the camera feeds swap automatically. The crowd se
 
 
 Finishing: As riders cross the finish line, the ESP32-CAM captures their reaction, while the DJ overlays their final stats (Average Speed, Rank, and Total Time).
+
+We could put all this stuff on some webpages too.
+
